@@ -5,6 +5,6 @@ Indonesia, with its diverse weather, is highly vulnerable to the impacts of clim
 This code was developed as part of my final project for the Machine Learning course. The project involves applying Decision Tree and Random Forest algorithms to predict weather patterns, showcasing the use of supervised learning techniques to analyze and forecast climate data. This work fulfills the requirements of the course and demonstrates practical machine learning applications.
 
 ## Contributors
-2501972120 - Gisela Elviany  
-2540121322 - Lovina Anabelle Citra  
-2501980961 - Richard Gregorius
+1. Lovina Anabelle Citra  
+2. Gisela Elviany
+3. Richard Gregorius
